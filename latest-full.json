@@ -1,0 +1,11 @@
+{
+  "packageName": "com.avisiontv",
+  "versionCode": 555,
+  "versionName": "0.5.9PK-preview",
+  "variant": "full",
+  "apkUrl": "https://github.com/DaimenLobb/avisiontv-updates/releases/download/v555/AvisionTV-Full-555.apk",
+  "sha256": "d3c0a0dd86255df9a5d59ffb773c9fe7d2770c44ba8ab02d26b7971f1b5bbc52",
+  "size": 121825692,
+  "minSdk": 24,
+  "notes": "Enable included-master restore on all Android TV devices, including Google TV; retains sign-in."
+}

@@ -1,0 +1,11 @@
+{
+  "packageName": "com.avisiontv",
+  "versionCode": 555,
+  "versionName": "0.5.9PK-preview",
+  "variant": "vod",
+  "apkUrl": "https://github.com/DaimenLobb/avisiontv-updates/releases/download/v555/AvisionTV-Movies-Shows-555.apk",
+  "sha256": "abd39842c14a2b6ee49c6df87c9019d85576a9763d80bf81fcec2986c71a2ea7",
+  "size": 121825692,
+  "minSdk": 24,
+  "notes": "Enable included-master restore on all Android TV devices, including Google TV; retains sign-in."
+}
